@@ -8,6 +8,13 @@ This file contains the code we have used for scraping data from the internet to 
 
 ## Task1.ipynb
 
+In this file, We have chosen two specific problem statements or prediction tasks related to the ICC Cricket World Cup 2023:
+
+1) Predicting the batsman who will hit the most sixes in the tournament.
+
+2) Predicting the bowler who will be the leading wicket-taker and will have the most 4-wicket hauls in the tournament.
+
+   
 ## Task2.ipynb
 
 In this file, we have built a model to predict the playing 11 for the teams playing the final match. The finalists have already been predicted in task 3 and we have used a representative team for showcasing the prediction of our model.
