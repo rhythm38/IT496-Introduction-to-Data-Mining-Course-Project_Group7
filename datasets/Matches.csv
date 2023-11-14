@@ -1,45 +1,1054 @@
-,Team 1,Team 2,Winner,Margin,Ground,Match Date,Scorecard
-0,England,New Zealand,New Zealand,9 wickets,Ahmedabad,"Oct 5, 2023",ODI # 4658
-1,Netherlands,Pakistan,Pakistan,81 runs,Hyderabad,"Oct 6, 2023",ODI # 4659
-2,Afghanistan,Bangladesh,Bangladesh,6 wickets,Dharamsala,"Oct 7, 2023",ODI # 4660
-3,South Africa,Sri Lanka,South Africa,102 runs,Delhi,"Oct 7, 2023",ODI # 4661
-4,India,Australia,India,6 wickets,Chennai,"Oct 8, 2023",ODI # 4662
-5,Netherlands,New Zealand,New Zealand,99 runs,Hyderabad,"Oct 9, 2023",ODI # 4663
-6,Bangladesh,England,England,137 runs,Dharamsala,"Oct 10, 2023",ODI # 4664
-7,Pakistan,Sri Lanka,Pakistan,6 wickets,Hyderabad,"Oct 10, 2023",ODI # 4665
-8,India,Afghanistan,India,8 wickets,Delhi,"Oct 11, 2023",ODI # 4666
-9,Australia,South Africa,South Africa,134 runs,Lucknow,"Oct 12, 2023",ODI # 4667
-10,Bangladesh,New Zealand,New Zealand,8 wickets,Chennai,"Oct 13, 2023",ODI # 4668
-11,India,Pakistan,India,7 wickets,Ahmedabad,"Oct 14, 2023",ODI # 4669
-12,Afghanistan,England,Afghanistan,69 runs,Delhi,"Oct 15, 2023",ODI # 4670
-13,Australia,Sri Lanka,Australia,5 wickets,Lucknow,"Oct 16, 2023",ODI # 4671
-14,Netherlands,South Africa,Netherlands,38 runs,Dharamsala,"Oct 17, 2023",ODI # 4672
-15,Afghanistan,New Zealand,New Zealand,149 runs,Chennai,"Oct 18, 2023",ODI # 4673
-16,India,Bangladesh,India,7 wickets,Pune,"Oct 19, 2023",ODI # 4674
-17,Australia,Pakistan,Australia,62 runs,Bengaluru,"Oct 20, 2023",ODI # 4675
-18,Netherlands,Sri Lanka,Sri Lanka,5 wickets,Lucknow,"Oct 21, 2023",ODI # 4676
-19,England,South Africa,South Africa,229 runs,Wankhede,"Oct 21, 2023",ODI # 4677
-20,India,New Zealand,India,4 wickets,Dharamsala,"Oct 22, 2023",ODI # 4678
-21,Afghanistan,Pakistan,Afghanistan,8 wickets,Chennai,"Oct 23, 2023",ODI # 4679
-22,Bangladesh,South Africa,South Africa,149 runs,Wankhede,"Oct 24, 2023",ODI # 4680
-23,Australia,Netherlands,Australia,309 runs,Delhi,"Oct 25, 2023",ODI # 4681
-24,England,Sri Lanka,Sri Lanka,8 wickets,Bengaluru,"Oct 26, 2023",ODI # 4682
-25,Pakistan,South Africa,South Africa,1 wicket,Chennai,"Oct 27, 2023",ODI # 4683
-26,Australia,New Zealand,Australia,5 runs,Dharamsala,"Oct 28, 2023",ODI # 4684
-27,Bangladesh,Netherlands,Netherlands,87 runs,Eden Gardens,"Oct 28, 2023",ODI # 4685
-28,India,England,India,100 runs,Lucknow,"Oct 29, 2023",ODI # 4686
-29,Afghanistan,Sri Lanka,Afghanistan,7 wickets,Pune,"Oct 30, 2023",ODI # 4687
-30,Bangladesh,Pakistan,Pakistan,7 wickets,Eden Gardens,"Oct 31, 2023",ODI # 4688
-31,New Zealand,South Africa,South Africa,190 runs,Pune,"Nov 1, 2023",ODI # 4689
-32,India,Sri Lanka,India,302 runs,Wankhede,"Nov 2, 2023",ODI # 4690
-33,Afghanistan,Netherlands,Afghanistan,7 wickets,Lucknow,"Nov 3, 2023",ODI # 4691
-34,New Zealand,Pakistan,Pakistan,21 runs,Bengaluru,"Nov 4, 2023",ODI # 4692
-35,Australia,England,Australia,33 runs,Ahmedabad,"Nov 4, 2023",ODI # 4693
-36,India,South Africa,India,243 runs,Eden Gardens,"Nov 5, 2023",ODI # 4694
-37,Bangladesh,Sri Lanka,Bangladesh,3 wickets,Delhi,"Nov 6, 2023",ODI # 4695
-38,Afghanistan,Australia,Australia,3 wickets,Wankhede,"Nov 7, 2023",ODI # 4696
-39,England,Netherlands,England,160 runs,Pune,"Nov 8, 2023",ODI # 4697
-40,New Zealand,Sri Lanka,New Zealand,5 wickets,Bengaluru,"Nov 9, 2023",ODI # 4698
-41,Afghanistan,South Africa,South Africa,5 wickets,Ahmedabad,"Nov 10, 2023",ODI # 4699
-42,Australia,Bangladesh,-,-,Pune,"Nov 11, 2023",ODI # 4700
-43,England,Pakistan,-,-,Eden Gardens,"Nov 11, 2023",ODI # 4701
+Team 1,Team 2,Winner,Margin,Ground,Match Date
+Afghanistan,Scotland,Afghanistan,8 wickets,ICCA Dubai,08-01-2015
+Afghanistan,Ireland,Ireland,3 wickets,Dubai (DSC),10-01-2015
+New Zealand,Sri Lanka,New Zealand,3 wickets,Christchurch,11-01-2015
+Ireland,Scotland,Ireland,3 wickets,Dubai (DSC),12-01-2015
+Afghanistan,Scotland,Scotland,150 runs,Abu Dhabi,14-01-2015
+New Zealand,Sri Lanka,Sri Lanka,6 wickets,Hamilton,15-01-2015
+Australia,England,Australia,3 wickets,Sydney,16-01-2015
+South Africa,West Indies,South Africa,61 runs,Durban,16-01-2015
+New Zealand,Sri Lanka,no result,-,Auckland,17-01-2015
+Afghanistan,Ireland,Afghanistan,71 runs,Dubai (DSC),17-01-2015
+Australia,India,Australia,4 wickets,Melbourne,18-01-2015
+South Africa,West Indies,South Africa,148 runs,Johannesburg,18-01-2015
+Ireland,Scotland,no result,-,ICCA Dubai,19-01-2015
+New Zealand,Sri Lanka,New Zealand,4 wickets,Nelson,20-01-2015
+England,India,England,9 wickets,Brisbane,20-01-2015
+South Africa,West Indies,South Africa,9 wickets,East London,21-01-2015
+New Zealand,Sri Lanka,New Zealand,108 runs,Dunedin,23-01-2015
+Australia,England,Australia,3 wickets,Hobart,23-01-2015
+New Zealand,Sri Lanka,New Zealand,120 runs,Dunedin,25-01-2015
+South Africa,West Indies,West Indies,1 wicket,Gqeberha,25-01-2015
+Australia,India,no result,-,Sydney,26-01-2015
+South Africa,West Indies,South Africa,131 runs,Centurion,28-01-2015
+New Zealand,Sri Lanka,Sri Lanka,34 runs,Wellington,29-01-2015
+England,India,England,3 wickets,Perth,30-01-2015
+New Zealand,Pakistan,New Zealand,7 wickets,Wellington,31-01-2015
+Australia,England,Australia,112 runs,Perth,01-02-2015
+New Zealand,Pakistan,New Zealand,119 runs,Napier,03-02-2015
+New Zealand,Sri Lanka,New Zealand,98 runs,Christchurch,14-02-2015
+Australia,England,Australia,111 runs,Melbourne,14-02-2015
+South Africa,Zimbabwe,South Africa,62 runs,Hamilton,15-02-2015
+India,Pakistan,India,76 runs,Adelaide,15-02-2015
+Ireland,West Indies,Ireland,4 wickets,Nelson,16-02-2015
+New Zealand,Scotland,New Zealand,3 wickets,Dunedin,17-02-2015
+Afghanistan,Bangladesh,Bangladesh,105 runs,Canberra,18-02-2015
+U.A.E.,Zimbabwe,Zimbabwe,4 wickets,Nelson,19-02-2015
+New Zealand,England,New Zealand,8 wickets,Wellington,20-02-2015
+Pakistan,West Indies,West Indies,150 runs,Christchurch,21-02-2015
+Afghanistan,Sri Lanka,Sri Lanka,4 wickets,Dunedin,22-02-2015
+India,South Africa,India,130 runs,Melbourne,22-02-2015
+England,Scotland,England,119 runs,Christchurch,23-02-2015
+West Indies,Zimbabwe,West Indies,73 runs,Canberra,24-02-2015
+Ireland,U.A.E.,Ireland,2 wickets,Brisbane,25-02-2015
+Afghanistan,Scotland,Afghanistan,1 wicket,Dunedin,26-02-2015
+Bangladesh,Sri Lanka,Sri Lanka,92 runs,Melbourne,26-02-2015
+South Africa,West Indies,South Africa,257 runs,Sydney,27-02-2015
+New Zealand,Australia,New Zealand,1 wicket,Auckland,28-02-2015
+India,U.A.E.,India,9 wickets,Perth,28-02-2015
+England,Sri Lanka,Sri Lanka,9 wickets,Wellington,01-03-2015
+Pakistan,Zimbabwe,Pakistan,20 runs,Brisbane,01-03-2015
+Ireland,South Africa,South Africa,201 runs,Canberra,03-03-2015
+Pakistan,U.A.E.,Pakistan,129 runs,Napier,04-03-2015
+Australia,Afghanistan,Australia,275 runs,Perth,04-03-2015
+Bangladesh,Scotland,Bangladesh,6 wickets,Nelson,05-03-2015
+India,West Indies,India,4 wickets,Perth,06-03-2015
+Pakistan,South Africa,Pakistan,29 runs,Auckland,07-03-2015
+Ireland,Zimbabwe,Ireland,5 runs,Hobart,07-03-2015
+New Zealand,Afghanistan,New Zealand,6 wickets,Napier,08-03-2015
+Australia,Sri Lanka,Australia,64 runs,Sydney,08-03-2015
+Bangladesh,England,Bangladesh,15 runs,Adelaide,09-03-2015
+India,Ireland,India,8 wickets,Hamilton,10-03-2015
+Scotland,Sri Lanka,Sri Lanka,148 runs,Hobart,11-03-2015
+South Africa,U.A.E.,South Africa,146 runs,Wellington,12-03-2015
+New Zealand,Bangladesh,New Zealand,3 wickets,Hamilton,13-03-2015
+Afghanistan,England,England,9 wickets,Sydney,13-03-2015
+India,Zimbabwe,India,6 wickets,Auckland,14-03-2015
+Australia,Scotland,Australia,7 wickets,Hobart,14-03-2015
+U.A.E.,West Indies,West Indies,6 wickets,Napier,15-03-2015
+Ireland,Pakistan,Pakistan,7 wickets,Adelaide,15-03-2015
+South Africa,Sri Lanka,South Africa,9 wickets,Sydney,18-03-2015
+Bangladesh,India,India,109 runs,Melbourne,19-03-2015
+Australia,Pakistan,Australia,6 wickets,Adelaide,20-03-2015
+New Zealand,West Indies,New Zealand,143 runs,Wellington,21-03-2015
+New Zealand,South Africa,New Zealand,4 wickets,Auckland,24-03-2015
+Australia,India,Australia,95 runs,Sydney,26-03-2015
+Australia,New Zealand,Australia,7 wickets,Melbourne,29-03-2015
+Bangladesh,Pakistan,Bangladesh,79 runs,Mirpur,17-04-2015
+Bangladesh,Pakistan,Bangladesh,7 wickets,Mirpur,19-04-2015
+Bangladesh,Pakistan,Bangladesh,8 wickets,Mirpur,22-04-2015
+Ireland,England,no result,-,Dublin (Malahide),08-05-2015
+Pakistan,Zimbabwe,Pakistan,41 runs,Lahore,26-05-2015
+Pakistan,Zimbabwe,Pakistan,6 wickets,Lahore,29-05-2015
+Pakistan,Zimbabwe,no result,-,Lahore,31-05-2015
+England,New Zealand,England,210 runs,Birmingham,09-06-2015
+England,New Zealand,New Zealand,13 runs,The Oval,12-06-2015
+England,New Zealand,New Zealand,3 wickets,Southampton,14-06-2015
+England,New Zealand,England,7 wickets,Nottingham,17-06-2015
+Bangladesh,India,Bangladesh,79 runs,Mirpur,18-06-2015
+England,New Zealand,England,3 wickets,Chester-le-Street,20-06-2015
+Bangladesh,India,Bangladesh,6 wickets,Mirpur,21-06-2015
+Bangladesh,India,India,77 runs,Mirpur,24-06-2015
+Zimbabwe,India,India,4 runs,Harare,10-07-2015
+Bangladesh,South Africa,South Africa,8 wickets,Mirpur,10-07-2015
+Sri Lanka,Pakistan,Pakistan,6 wickets,Dambulla,11-07-2015
+Zimbabwe,India,India,62 runs,Harare,12-07-2015
+Bangladesh,South Africa,Bangladesh,7 wickets,Mirpur,12-07-2015
+Zimbabwe,India,India,83 runs,Harare,14-07-2015
+Bangladesh,South Africa,Bangladesh,9 wickets,Chattogram,15-07-2015
+Sri Lanka,Pakistan,Sri Lanka,2 wickets,Pallekele,15-07-2015
+Sri Lanka,Pakistan,Pakistan,135 runs,Colombo (RPS),19-07-2015
+Sri Lanka,Pakistan,Pakistan,7 wickets,Colombo (RPS),22-07-2015
+Sri Lanka,Pakistan,Sri Lanka,165 runs,Hambantota,26-07-2015
+Zimbabwe,New Zealand,Zimbabwe,7 wickets,Harare,02-08-2015
+Zimbabwe,New Zealand,New Zealand,10 wickets,Harare,04-08-2015
+Zimbabwe,New Zealand,New Zealand,38 runs,Harare,07-08-2015
+South Africa,New Zealand,South Africa,20 runs,Centurion,19-08-2015
+South Africa,New Zealand,New Zealand,8 wickets,Potchefstroom,23-08-2015
+South Africa,New Zealand,South Africa,62 runs,Durban,26-08-2015
+Ireland,Australia,Australia,23 runs,Belfast,27-08-2015
+England,Australia,Australia,59 runs,Southampton,03-09-2015
+England,Australia,Australia,64 runs,Lord's,05-09-2015
+England,Australia,England,93 runs,Manchester,08-09-2015
+England,Australia,England,3 wickets,Leeds,11-09-2015
+England,Australia,Australia,8 wickets,Manchester,13-09-2015
+Zimbabwe,Pakistan,Pakistan,131 runs,Harare,01-10-2015
+Zimbabwe,Pakistan,Zimbabwe,5 runs,Harare,03-10-2015
+Zimbabwe,Pakistan,Pakistan,7 wickets,Harare,05-10-2015
+Zimbabwe,Ireland,Zimbabwe,2 wickets,Harare,09-10-2015
+India,South Africa,South Africa,5 runs,Kanpur,11-10-2015
+Zimbabwe,Ireland,Zimbabwe,5 wickets,Harare,11-10-2015
+Zimbabwe,Ireland,Ireland,2 wickets,Harare,13-10-2015
+India,South Africa,India,22 runs,Indore,14-10-2015
+Zimbabwe,Afghanistan,Zimbabwe,8 wickets,Bulawayo,16-10-2015
+Zimbabwe,Afghanistan,Afghanistan,58 runs,Bulawayo,18-10-2015
+India,South Africa,South Africa,18 runs,Rajkot,18-10-2015
+Zimbabwe,Afghanistan,Zimbabwe,6 wickets,Bulawayo,20-10-2015
+Zimbabwe,Afghanistan,Afghanistan,3 wickets,Bulawayo,22-10-2015
+India,South Africa,India,35 runs,Chennai,22-10-2015
+Zimbabwe,Afghanistan,Afghanistan,73 runs,Bulawayo,24-10-2015
+India,South Africa,South Africa,214 runs,Wankhede,25-10-2015
+Sri Lanka,West Indies,Sri Lanka,1 wicket,Colombo (RPS),01-11-2015
+Sri Lanka,West Indies,Sri Lanka,8 wickets,Colombo (RPS),04-11-2015
+Bangladesh,Zimbabwe,Bangladesh,145 runs,Mirpur,07-11-2015
+Sri Lanka,West Indies,Sri Lanka,19 runs,Pallekele,07-11-2015
+Bangladesh,Zimbabwe,Bangladesh,58 runs,Mirpur,09-11-2015
+Bangladesh,Zimbabwe,Bangladesh,61 runs,Mirpur,11-11-2015
+England,Pakistan,Pakistan,6 wickets,Abu Dhabi,11-11-2015
+England,Pakistan,England,95 runs,Abu Dhabi,13-11-2015
+U.A.E.,Hong Kong,Hong Kong,89 runs,ICCA Dubai,16-11-2015
+England,Pakistan,England,6 wickets,Sharjah,17-11-2015
+U.A.E.,Hong Kong,Hong Kong,136 runs,ICCA Dubai,18-11-2015
+England,Pakistan,England,84 runs,Dubai (DSC),20-11-2015
+Afghanistan,Zimbabwe,Afghanistan,49 runs,Sharjah,25-12-2015
+New Zealand,Sri Lanka,New Zealand,7 wickets,Christchurch,26-12-2015
+New Zealand,Sri Lanka,New Zealand,10 wickets,Christchurch,28-12-2015
+Afghanistan,Zimbabwe,Afghanistan,4 wickets,Sharjah,29-12-2015
+New Zealand,Sri Lanka,Sri Lanka,8 wickets,Nelson,31-12-2015
+New Zealand,Sri Lanka,no result,-,Nelson,02-01-2016
+Afghanistan,Zimbabwe,Zimbabwe,117 runs,Sharjah,02-01-2016
+Afghanistan,Zimbabwe,Zimbabwe,65 runs,Sharjah,04-01-2016
+New Zealand,Sri Lanka,New Zealand,36 runs,Mount Maunganui,05-01-2016
+Afghanistan,Zimbabwe,Afghanistan,2 wickets,Sharjah,06-01-2016
+Australia,India,Australia,5 wickets,Perth,12-01-2016
+Australia,India,Australia,7 wickets,Brisbane,15-01-2016
+Australia,India,Australia,3 wickets,Melbourne,17-01-2016
+Australia,India,Australia,25 runs,Canberra,20-01-2016
+Australia,India,India,6 wickets,Sydney,23-01-2016
+New Zealand,Pakistan,New Zealand,70 runs,Wellington,25-01-2016
+Hong Kong,Scotland,Hong Kong,109 runs,Mong Kok,26-01-2016
+New Zealand,Pakistan,New Zealand,3 wickets,Auckland,31-01-2016
+New Zealand,Australia,New Zealand,159 runs,Auckland,03-02-2016
+South Africa,England,England,39 runs,Bloemfontein,03-02-2016
+New Zealand,Australia,Australia,4 wickets,Wellington,06-02-2016
+South Africa,England,England,5 wickets,Gqeberha,06-02-2016
+New Zealand,Australia,New Zealand,55 runs,Hamilton,08-02-2016
+South Africa,England,South Africa,7 wickets,Centurion,09-02-2016
+South Africa,England,South Africa,1 wicket,Johannesburg,12-02-2016
+South Africa,England,South Africa,5 wickets,Cape Town,14-02-2016
+West Indies,South Africa,West Indies,4 wickets,Providence,03-06-2016
+West Indies,Australia,Australia,6 wickets,Providence,05-06-2016
+Australia,South Africa,South Africa,47 runs,Providence,07-06-2016
+Zimbabwe,India,India,9 wickets,Harare,11-06-2016
+Australia,South Africa,Australia,36 runs,Basseterre,11-06-2016
+Zimbabwe,India,India,8 wickets,Harare,13-06-2016
+West Indies,Australia,West Indies,4 wickets,Basseterre,13-06-2016
+Zimbabwe,India,India,10 wickets,Harare,15-06-2016
+West Indies,South Africa,South Africa,139 runs,Basseterre,15-06-2016
+Ireland,Sri Lanka,Sri Lanka,76 runs,Dublin (Malahide),16-06-2016
+Ireland,Sri Lanka,Sri Lanka,136 runs,Dublin (Malahide),18-06-2016
+Australia,South Africa,no result,-,Bridgetown,19-06-2016
+England,Sri Lanka,tied,-,Nottingham,21-06-2016
+West Indies,Australia,Australia,6 wickets,Bridgetown,21-06-2016
+England,Sri Lanka,England,10 wickets,Birmingham,24-06-2016
+West Indies,South Africa,West Indies,100 runs,Bridgetown,24-06-2016
+England,Sri Lanka,no result,-,Bristol,26-06-2016
+West Indies,Australia,Australia,58 runs,Bridgetown,26-06-2016
+England,Sri Lanka,England,6 wickets,The Oval,29-06-2016
+England,Sri Lanka,England,122 runs,Cardiff,02-07-2016
+Scotland,Afghanistan,no result,-,Edinburgh,04-07-2016
+Scotland,Afghanistan,Afghanistan,78 runs,Edinburgh,06-07-2016
+Ireland,Afghanistan,Afghanistan,39 runs,Belfast,12-07-2016
+Ireland,Afghanistan,Ireland,6 wickets,Belfast,14-07-2016
+Ireland,Afghanistan,Afghanistan,79 runs,Belfast,17-07-2016
+Ireland,Afghanistan,Ireland,12 runs,Belfast,19-07-2016
+Scotland,U.A.E.,Scotland,98 runs,Edinburgh,14-08-2016
+Scotland,U.A.E.,Scotland,7 wickets,Edinburgh,16-08-2016
+Ireland,Pakistan,Pakistan,255 runs,Dublin (Malahide),18-08-2016
+Sri Lanka,Australia,Australia,3 wickets,Colombo (RPS),21-08-2016
+Sri Lanka,Australia,Sri Lanka,82 runs,Colombo (RPS),24-08-2016
+England,Pakistan,England,44 runs,Southampton,24-08-2016
+England,Pakistan,England,4 wickets,Lord's,27-08-2016
+Sri Lanka,Australia,Australia,2 wickets,Dambulla,28-08-2016
+England,Pakistan,England,169 runs,Nottingham,30-08-2016
+Sri Lanka,Australia,Australia,6 wickets,Dambulla,31-08-2016
+England,Pakistan,England,4 wickets,Leeds,01-09-2016
+Sri Lanka,Australia,Australia,5 wickets,Pallekele,04-09-2016
+England,Pakistan,Pakistan,4 wickets,Cardiff,04-09-2016
+Scotland,Hong Kong,no result,-,Edinburgh,08-09-2016
+Scotland,Hong Kong,Scotland,53 runs,Edinburgh,10-09-2016
+South Africa,Ireland,South Africa,206 runs,Benoni,25-09-2016
+Bangladesh,Afghanistan,Bangladesh,7 runs,Mirpur,25-09-2016
+Australia,Ireland,Australia,9 wickets,Benoni,27-09-2016
+Bangladesh,Afghanistan,Afghanistan,2 wickets,Mirpur,28-09-2016
+Pakistan,West Indies,Pakistan,111 runs,Sharjah,30-09-2016
+South Africa,Australia,South Africa,6 wickets,Centurion,30-09-2016
+Bangladesh,Afghanistan,Bangladesh,141 runs,Mirpur,01-10-2016
+South Africa,Australia,South Africa,142 runs,Johannesburg,02-10-2016
+Pakistan,West Indies,Pakistan,59 runs,Sharjah,02-10-2016
+Pakistan,West Indies,Pakistan,136 runs,Abu Dhabi,05-10-2016
+South Africa,Australia,South Africa,4 wickets,Durban,05-10-2016
+Bangladesh,England,England,21 runs,Mirpur,07-10-2016
+South Africa,Australia,South Africa,6 wickets,Gqeberha,09-10-2016
+Bangladesh,England,Bangladesh,34 runs,Mirpur,09-10-2016
+Bangladesh,England,England,4 wickets,Chattogram,12-10-2016
+South Africa,Australia,South Africa,31 runs,Cape Town,12-10-2016
+India,New Zealand,India,6 wickets,Dharamsala,16-10-2016
+India,New Zealand,New Zealand,6 runs,Delhi,20-10-2016
+India,New Zealand,India,7 wickets,Mohali,23-10-2016
+India,New Zealand,New Zealand,19 runs,Ranchi,26-10-2016
+India,New Zealand,India,190 runs,Visakhapatnam,29-10-2016
+Hong Kong,P.N.G.,Hong Kong,106 runs,Mong Kok,04-11-2016
+Hong Kong,P.N.G.,P.N.G.,14 runs,Mong Kok,06-11-2016
+Hong Kong,P.N.G.,Hong Kong,7 wickets,Mong Kok,08-11-2016
+Zimbabwe,Sri Lanka,Sri Lanka,8 wickets,Harare,14-11-2016
+Sri Lanka,West Indies,West Indies,62 runs,Harare,16-11-2016
+Zimbabwe,West Indies,tied,-,Bulawayo,19-11-2016
+Zimbabwe,Sri Lanka,no result,-,Bulawayo,21-11-2016
+Sri Lanka,West Indies,Sri Lanka,1 run,Bulawayo,23-11-2016
+Zimbabwe,West Indies,Zimbabwe,5 runs,Bulawayo,25-11-2016
+Zimbabwe,Sri Lanka,Sri Lanka,6 wickets,Bulawayo,27-11-2016
+Australia,New Zealand,Australia,68 runs,Sydney,04-12-2016
+Australia,New Zealand,Australia,116 runs,Canberra,06-12-2016
+Australia,New Zealand,Australia,117 runs,Melbourne,09-12-2016
+New Zealand,Bangladesh,New Zealand,77 runs,Christchurch,26-12-2016
+New Zealand,Bangladesh,New Zealand,67 runs,Nelson,29-12-2016
+New Zealand,Bangladesh,New Zealand,8 wickets,Nelson,31-12-2016
+Australia,Pakistan,Australia,92 runs,Brisbane,13-01-2017
+Australia,Pakistan,Pakistan,6 wickets,Melbourne,15-01-2017
+India,England,India,3 wickets,Pune,15-01-2017
+Australia,Pakistan,Australia,7 wickets,Perth,19-01-2017
+India,England,India,15 runs,Cuttack,19-01-2017
+Australia,Pakistan,Australia,86 runs,Sydney,22-01-2017
+Hong Kong,Scotland,Hong Kong,7 wickets,Abu Dhabi,22-01-2017
+India,England,England,5 runs,Eden Gardens,22-01-2017
+U.A.E.,Scotland,U.A.E.,4 wickets,Dubai (DSC),24-01-2017
+Australia,Pakistan,Australia,57 runs,Adelaide,26-01-2017
+U.A.E.,Hong Kong,U.A.E.,6 wickets,Dubai (DSC),26-01-2017
+South Africa,Sri Lanka,South Africa,8 wickets,Gqeberha,28-01-2017
+New Zealand,Australia,New Zealand,6 runs,Auckland,30-01-2017
+South Africa,Sri Lanka,South Africa,121 runs,Durban,01-02-2017
+South Africa,Sri Lanka,South Africa,7 wickets,Johannesburg,04-02-2017
+New Zealand,Australia,New Zealand,24 runs,Hamilton,05-02-2017
+South Africa,Sri Lanka,South Africa,40 runs,Cape Town,07-02-2017
+South Africa,Sri Lanka,South Africa,88 runs,Centurion,10-02-2017
+Zimbabwe,Afghanistan,Afghanistan,12 runs,Harare,16-02-2017
+New Zealand,South Africa,South Africa,4 wickets,Hamilton,19-02-2017
+Zimbabwe,Afghanistan,Afghanistan,54 runs,Harare,19-02-2017
+Zimbabwe,Afghanistan,Zimbabwe,3 runs,Harare,21-02-2017
+New Zealand,South Africa,New Zealand,6 runs,Christchurch,22-02-2017
+Zimbabwe,Afghanistan,Zimbabwe,7 wickets,Harare,24-02-2017
+New Zealand,South Africa,South Africa,159 runs,Wellington,25-02-2017
+Zimbabwe,Afghanistan,Afghanistan,106 runs,Harare,26-02-2017
+New Zealand,South Africa,New Zealand,7 wickets,Hamilton,01-03-2017
+U.A.E.,Ireland,Ireland,85 runs,ICCA Dubai,02-03-2017
+West Indies,England,England,45 runs,North Sound,03-03-2017
+New Zealand,South Africa,South Africa,6 wickets,Auckland,04-03-2017
+U.A.E.,Ireland,Ireland,8 wickets,ICCA Dubai,04-03-2017
+West Indies,England,England,4 wickets,North Sound,05-03-2017
+West Indies,England,England,186 runs,Bridgetown,09-03-2017
+Afghanistan,Ireland,Afghanistan,30 runs,Greater Noida,15-03-2017
+Afghanistan,Ireland,Afghanistan,34 runs,Greater Noida,17-03-2017
+Afghanistan,Ireland,Ireland,6 wickets,Greater Noida,19-03-2017
+Afghanistan,Ireland,Ireland,3 wickets,Greater Noida,22-03-2017
+Afghanistan,Ireland,Afghanistan,7 wickets,Greater Noida,24-03-2017
+Sri Lanka,Bangladesh,Bangladesh,90 runs,Dambulla,25-03-2017
+Sri Lanka,Bangladesh,no result,-,Dambulla,28-03-2017
+U.A.E.,P.N.G.,U.A.E.,82 runs,Abu Dhabi,31-03-2017
+Sri Lanka,Bangladesh,Sri Lanka,70 runs,Colombo (SSC),01-04-2017
+U.A.E.,P.N.G.,P.N.G.,26 runs,Abu Dhabi,02-04-2017
+U.A.E.,P.N.G.,U.A.E.,103 runs,Abu Dhabi,04-04-2017
+West Indies,Pakistan,West Indies,4 wickets,Providence,07-04-2017
+West Indies,Pakistan,Pakistan,74 runs,Providence,09-04-2017
+West Indies,Pakistan,Pakistan,6 wickets,Providence,11-04-2017
+England,Ireland,England,7 wickets,Bristol,05-05-2017
+England,Ireland,England,85 runs,Lord's,07-05-2017
+Ireland,Bangladesh,no result,-,Dublin (Malahide),12-05-2017
+Ireland,New Zealand,New Zealand,51 runs,Dublin (Malahide),14-05-2017
+Bangladesh,New Zealand,New Zealand,4 wickets,Dublin,17-05-2017
+Ireland,Bangladesh,Bangladesh,8 wickets,Dublin (Malahide),19-05-2017
+Ireland,New Zealand,New Zealand,190 runs,Dublin (Malahide),21-05-2017
+Bangladesh,New Zealand,Bangladesh,5 wickets,Dublin,24-05-2017
+England,South Africa,England,72 runs,Leeds,24-05-2017
+England,South Africa,England,2 runs,Southampton,27-05-2017
+England,South Africa,South Africa,7 wickets,Lord's,29-05-2017
+England,Bangladesh,England,8 wickets,The Oval,01-06-2017
+Australia,New Zealand,no result,-,Birmingham,02-06-2017
+South Africa,Sri Lanka,South Africa,96 runs,The Oval,03-06-2017
+India,Pakistan,India,124 runs,Birmingham,04-06-2017
+Australia,Bangladesh,no result,-,The Oval,05-06-2017
+England,New Zealand,England,87 runs,Cardiff,06-06-2017
+Pakistan,South Africa,Pakistan,19 runs,Birmingham,07-06-2017
+India,Sri Lanka,Sri Lanka,7 wickets,The Oval,08-06-2017
+Bangladesh,New Zealand,Bangladesh,5 wickets,Cardiff,09-06-2017
+West Indies,Afghanistan,Afghanistan,63 runs,Gros Islet,09-06-2017
+England,Australia,England,40 runs,Birmingham,10-06-2017
+India,South Africa,India,8 wickets,The Oval,11-06-2017
+West Indies,Afghanistan,West Indies,4 wickets,Gros Islet,11-06-2017
+Pakistan,Sri Lanka,Pakistan,3 wickets,Cardiff,12-06-2017
+England,Pakistan,Pakistan,8 wickets,Cardiff,14-06-2017
+West Indies,Afghanistan,no result,-,Gros Islet,14-06-2017
+Bangladesh,India,India,9 wickets,Birmingham,15-06-2017
+Scotland,Zimbabwe,Scotland,26 runs,Edinburgh,15-06-2017
+Scotland,Zimbabwe,Zimbabwe,6 wickets,Edinburgh,17-06-2017
+India,Pakistan,Pakistan,180 runs,The Oval,18-06-2017
+West Indies,India,no result,-,Port of Spain,23-06-2017
+West Indies,India,India,105 runs,Port of Spain,25-06-2017
+Sri Lanka,Zimbabwe,Zimbabwe,6 wickets,Galle,30-06-2017
+West Indies,India,India,93 runs,North Sound,30-06-2017
+Sri Lanka,Zimbabwe,Sri Lanka,7 wickets,Galle,02-07-2017
+West Indies,India,West Indies,11 runs,North Sound,02-07-2017
+Sri Lanka,Zimbabwe,Sri Lanka,8 wickets,Hambantota,06-07-2017
+West Indies,India,India,8 wickets,Kingston,06-07-2017
+Sri Lanka,Zimbabwe,Zimbabwe,4 wickets,Hambantota,08-07-2017
+Sri Lanka,Zimbabwe,Zimbabwe,3 wickets,Hambantota,10-07-2017
+Sri Lanka,India,India,9 wickets,Dambulla,20-08-2017
+Sri Lanka,India,India,3 wickets,Pallekele,24-08-2017
+Sri Lanka,India,India,6 wickets,Pallekele,27-08-2017
+Sri Lanka,India,India,168 runs,Colombo (RPS),31-08-2017
+Sri Lanka,India,India,6 wickets,Colombo (RPS),03-09-2017
+India,Australia,India,26 runs,Chennai,17-09-2017
+England,West Indies,England,7 wickets,Manchester,19-09-2017
+India,Australia,India,50 runs,Eden Gardens,21-09-2017
+England,West Indies,no result,-,Nottingham,21-09-2017
+India,Australia,India,5 wickets,Indore,24-09-2017
+England,West Indies,England,124 runs,Bristol,24-09-2017
+England,West Indies,England,6 runs,The Oval,27-09-2017
+India,Australia,Australia,21 runs,Bengaluru,28-09-2017
+England,West Indies,England,9 wickets,Southampton,29-09-2017
+India,Australia,India,7 wickets,Nagpur,01-10-2017
+P.N.G.,Scotland,Scotland,101 runs,Port Moresby,06-10-2017
+P.N.G.,Scotland,P.N.G.,5 wickets,Port Moresby,08-10-2017
+Pakistan,Sri Lanka,Pakistan,83 runs,Dubai (DSC),13-10-2017
+South Africa,Bangladesh,South Africa,10 wickets,Kimberley,15-10-2017
+Pakistan,Sri Lanka,Pakistan,32 runs,Abu Dhabi,16-10-2017
+South Africa,Bangladesh,South Africa,104 runs,Paarl,18-10-2017
+Pakistan,Sri Lanka,Pakistan,7 wickets,Abu Dhabi,18-10-2017
+Pakistan,Sri Lanka,Pakistan,7 wickets,Sharjah,20-10-2017
+India,New Zealand,New Zealand,6 wickets,Wankhede,22-10-2017
+South Africa,Bangladesh,South Africa,200 runs,East London,22-10-2017
+Pakistan,Sri Lanka,Pakistan,9 wickets,Sharjah,23-10-2017
+India,New Zealand,India,6 wickets,Pune,25-10-2017
+India,New Zealand,India,6 runs,Kanpur,29-10-2017
+P.N.G.,Scotland,Scotland,6 wickets,Dubai (DSC),24-11-2017
+P.N.G.,Scotland,Scotland,4 wickets,Dubai (DSC),25-11-2017
+Afghanistan,Ireland,Afghanistan,138 runs,Sharjah,05-12-2017
+Hong Kong,P.N.G.,Hong Kong,23 runs,ICCA Dubai,06-12-2017
+Afghanistan,Ireland,Ireland,51 runs,Sharjah,07-12-2017
+Hong Kong,P.N.G.,Hong Kong,93 runs,ICCA Dubai,08-12-2017
+India,Sri Lanka,Sri Lanka,7 wickets,Dharamsala,10-12-2017
+Afghanistan,Ireland,Ireland,5 wickets,Sharjah,10-12-2017
+India,Sri Lanka,India,141 runs,Mohali,13-12-2017
+India,Sri Lanka,India,8 wickets,Visakhapatnam,17-12-2017
+New Zealand,West Indies,New Zealand,5 wickets,Whangarei,20-12-2017
+New Zealand,West Indies,New Zealand,204 runs,Christchurch,23-12-2017
+New Zealand,West Indies,New Zealand,66 runs,Christchurch,26-12-2017
+New Zealand,Pakistan,New Zealand,61 runs,Wellington,06-01-2018
+New Zealand,Pakistan,New Zealand,8 wickets,Nelson,09-01-2018
+U.A.E.,Ireland,Ireland,4 wickets,ICCA Dubai,11-01-2018
+New Zealand,Pakistan,New Zealand,183 runs,Dunedin,13-01-2018
+U.A.E.,Ireland,Ireland,67 runs,ICCA Dubai,13-01-2018
+Australia,England,England,5 wickets,Melbourne,14-01-2018
+Bangladesh,Zimbabwe,Bangladesh,8 wickets,Mirpur,15-01-2018
+New Zealand,Pakistan,New Zealand,5 wickets,Hamilton,16-01-2018
+Ireland,Scotland,Ireland,6 wickets,ICCA Dubai,16-01-2018
+Sri Lanka,Zimbabwe,Zimbabwe,12 runs,Mirpur,17-01-2018
+Ireland,Scotland,Ireland,24 runs,ICCA Dubai,18-01-2018
+New Zealand,Pakistan,New Zealand,15 runs,Wellington,19-01-2018
+Australia,England,England,4 wickets,Brisbane,19-01-2018
+Bangladesh,Sri Lanka,Bangladesh,163 runs,Mirpur,19-01-2018
+Australia,England,England,16 runs,Sydney,21-01-2018
+U.A.E.,Scotland,Scotland,31 runs,ICCA Dubai,21-01-2018
+Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Mirpur,21-01-2018
+U.A.E.,Scotland,U.A.E.,4 wickets,ICCA Dubai,23-01-2018
+Bangladesh,Zimbabwe,Bangladesh,91 runs,Mirpur,23-01-2018
+Bangladesh,Sri Lanka,Sri Lanka,10 wickets,Mirpur,25-01-2018
+Australia,England,Australia,3 wickets,Adelaide,26-01-2018
+Bangladesh,Sri Lanka,Sri Lanka,79 runs,Mirpur,27-01-2018
+Australia,England,England,12 runs,Perth,28-01-2018
+South Africa,India,India,6 wickets,Durban,01-02-2018
+South Africa,India,India,9 wickets,Centurion,04-02-2018
+South Africa,India,India,124 runs,Cape Town,07-02-2018
+Afghanistan,Zimbabwe,Afghanistan,154 runs,Sharjah,09-02-2018
+South Africa,India,South Africa,5 wickets,Johannesburg,10-02-2018
+Afghanistan,Zimbabwe,Zimbabwe,154 runs,Sharjah,11-02-2018
+Afghanistan,Zimbabwe,Afghanistan,6 wickets,Sharjah,13-02-2018
+South Africa,India,India,73 runs,Gqeberha,13-02-2018
+Afghanistan,Zimbabwe,Afghanistan,10 wickets,Sharjah,16-02-2018
+South Africa,India,India,8 wickets,Centurion,16-02-2018
+Afghanistan,Zimbabwe,Afghanistan,146 runs,Sharjah,19-02-2018
+New Zealand,England,New Zealand,3 wickets,Hamilton,25-02-2018
+New Zealand,England,England,6 wickets,Mount Maunganui,28-02-2018
+New Zealand,England,England,4 runs,Wellington,03-03-2018
+Afghanistan,Scotland,Scotland,7 wickets,Bulawayo,04-03-2018
+P.N.G.,U.A.E.,U.A.E.,56 runs,Harare,04-03-2018
+Hong Kong,Scotland,Scotland,4 wickets,Bulawayo,06-03-2018
+Ireland,P.N.G.,Ireland,4 wickets,Harare,06-03-2018
+U.A.E.,West Indies,West Indies,60 runs,Harare,06-03-2018
+Zimbabwe,Afghanistan,Zimbabwe,2 runs,Bulawayo,06-03-2018
+New Zealand,England,New Zealand,5 wickets,Dunedin,07-03-2018
+Afghanistan,Hong Kong,Hong Kong,30 runs,Bulawayo,08-03-2018
+P.N.G.,West Indies,West Indies,6 wickets,Harare,08-03-2018
+New Zealand,England,England,7 wickets,Christchurch,10-03-2018
+Ireland,West Indies,West Indies,52 runs,Harare,10-03-2018
+Zimbabwe,Hong Kong,Zimbabwe,89 runs,Bulawayo,10-03-2018
+Ireland,U.A.E.,Ireland,226 runs,Harare,12-03-2018
+Zimbabwe,Scotland,tied,-,Bulawayo,12-03-2018
+Afghanistan,West Indies,Afghanistan,3 wickets,Harare,15-03-2018
+Scotland,U.A.E.,Scotland,73 runs,Bulawayo,15-03-2018
+Zimbabwe,Ireland,Zimbabwe,107 runs,Harare,16-03-2018
+Hong Kong,P.N.G.,P.N.G.,58 runs,Harare,17-03-2018
+Ireland,Scotland,Ireland,25 runs,Harare,18-03-2018
+Zimbabwe,West Indies,West Indies,4 wickets,Harare,19-03-2018
+Afghanistan,U.A.E.,Afghanistan,5 wickets,Harare,20-03-2018
+Scotland,West Indies,West Indies,5 runs,Harare,21-03-2018
+Zimbabwe,U.A.E.,U.A.E.,3 runs,Harare,22-03-2018
+Afghanistan,Ireland,Afghanistan,5 wickets,Harare,23-03-2018
+Afghanistan,West Indies,Afghanistan,7 wickets,Harare,25-03-2018
+Scotland,England,Scotland,6 runs,Edinburgh,10-06-2018
+England,Australia,England,3 wickets,The Oval,13-06-2018
+England,Australia,England,38 runs,Cardiff,16-06-2018
+England,Australia,England,242 runs,Nottingham,19-06-2018
+England,Australia,England,6 wickets,Chester-le-Street,21-06-2018
+England,Australia,England,1 wicket,Manchester,24-06-2018
+England,India,India,8 wickets,Nottingham,12-07-2018
+Zimbabwe,Pakistan,Pakistan,201 runs,Bulawayo,13-07-2018
+England,India,England,86 runs,Lord's,14-07-2018
+Zimbabwe,Pakistan,Pakistan,9 wickets,Bulawayo,16-07-2018
+England,India,England,8 wickets,Leeds,17-07-2018
+Zimbabwe,Pakistan,Pakistan,9 wickets,Bulawayo,18-07-2018
+Zimbabwe,Pakistan,Pakistan,244 runs,Bulawayo,20-07-2018
+Zimbabwe,Pakistan,Pakistan,131 runs,Bulawayo,22-07-2018
+West Indies,Bangladesh,Bangladesh,48 runs,Providence,22-07-2018
+West Indies,Bangladesh,West Indies,3 runs,Providence,25-07-2018
+West Indies,Bangladesh,Bangladesh,18 runs,Basseterre,28-07-2018
+Sri Lanka,South Africa,South Africa,5 wickets,Dambulla,29-07-2018
+Netherlands,Nepal,Netherlands,55 runs,Amstelveen,01-08-2018
+Sri Lanka,South Africa,South Africa,4 wickets,Dambulla,01-08-2018
+Netherlands,Nepal,Nepal,1 run,Amstelveen,03-08-2018
+Sri Lanka,South Africa,South Africa,78 runs,Pallekele,05-08-2018
+Sri Lanka,South Africa,Sri Lanka,3 runs,Pallekele,08-08-2018
+Sri Lanka,South Africa,Sri Lanka,178 runs,Colombo (RPS),12-08-2018
+Ireland,Afghanistan,Afghanistan,29 runs,Belfast,27-08-2018
+Ireland,Afghanistan,Ireland,3 wickets,Belfast,29-08-2018
+Nepal,U.A.E.,U.A.E.,78 runs,Kuala Lumpur,30-08-2018
+Ireland,Afghanistan,Afghanistan,8 wickets,Belfast,31-08-2018
+Bangladesh,Sri Lanka,Bangladesh,137 runs,Dubai (DSC),15-09-2018
+Hong Kong,Pakistan,Pakistan,8 wickets,Dubai (DSC),16-09-2018
+Afghanistan,Sri Lanka,Afghanistan,91 runs,Abu Dhabi,17-09-2018
+Hong Kong,India,India,26 runs,Dubai (DSC),18-09-2018
+India,Pakistan,India,8 wickets,Dubai (DSC),19-09-2018
+Afghanistan,Bangladesh,Afghanistan,136 runs,Abu Dhabi,20-09-2018
+Bangladesh,India,India,7 wickets,Dubai (DSC),21-09-2018
+Afghanistan,Pakistan,Pakistan,3 wickets,Abu Dhabi,21-09-2018
+India,Pakistan,India,9 wickets,Dubai (DSC),23-09-2018
+Afghanistan,Bangladesh,Bangladesh,3 runs,Abu Dhabi,23-09-2018
+Afghanistan,India,tied,-,Dubai (DSC),25-09-2018
+Bangladesh,Pakistan,Bangladesh,37 runs,Abu Dhabi,26-09-2018
+Bangladesh,India,India,3 wickets,Dubai (DSC),28-09-2018
+South Africa,Zimbabwe,South Africa,5 wickets,Kimberley,30-09-2018
+South Africa,Zimbabwe,South Africa,120 runs,Bloemfontein,03-10-2018
+South Africa,Zimbabwe,South Africa,4 wickets,Paarl,06-10-2018
+Sri Lanka,England,no result,-,Dambulla,10-10-2018
+Sri Lanka,England,England,31 runs,Dambulla,13-10-2018
+Sri Lanka,England,England,7 wickets,Pallekele,17-10-2018
+Sri Lanka,England,England,18 runs,Pallekele,20-10-2018
+India,West Indies,India,8 wickets,Guwahati,21-10-2018
+Bangladesh,Zimbabwe,Bangladesh,28 runs,Mirpur,21-10-2018
+Sri Lanka,England,Sri Lanka,219 runs,Colombo (RPS),23-10-2018
+India,West Indies,tied,-,Visakhapatnam,24-10-2018
+Bangladesh,Zimbabwe,Bangladesh,7 wickets,Chattogram,24-10-2018
+Bangladesh,Zimbabwe,Bangladesh,7 wickets,Chattogram,26-10-2018
+India,West Indies,West Indies,43 runs,Pune,27-10-2018
+India,West Indies,India,224 runs,Brabourne,29-10-2018
+India,West Indies,India,9 wickets,Thiruvananthapuram,01-11-2018
+Australia,South Africa,South Africa,6 wickets,Perth,04-11-2018
+New Zealand,Pakistan,New Zealand,47 runs,Abu Dhabi,07-11-2018
+Australia,South Africa,Australia,7 runs,Adelaide,09-11-2018
+New Zealand,Pakistan,Pakistan,6 wickets,Abu Dhabi,09-11-2018
+Australia,South Africa,South Africa,40 runs,Hobart,11-11-2018
+New Zealand,Pakistan,no result,-,Dubai (DSC),11-11-2018
+Bangladesh,West Indies,Bangladesh,5 wickets,Mirpur,09-12-2018
+Bangladesh,West Indies,West Indies,4 wickets,Mirpur,11-12-2018
+Bangladesh,West Indies,Bangladesh,8 wickets,Sylhet,14-12-2018
+New Zealand,Sri Lanka,New Zealand,45 runs,Mount Maunganui,03-01-2019
+New Zealand,Sri Lanka,New Zealand,21 runs,Mount Maunganui,04-01-2019
+New Zealand,Sri Lanka,New Zealand,115 runs,Nelson,05-01-2019
+Australia,India,Australia,34 runs,Sydney,06-01-2019
+Australia,India,India,6 wickets,Adelaide,07-01-2019
+Australia,India,India,7 wickets,Melbourne,08-01-2019
+South Africa,Pakistan,Pakistan,5 wickets,Gqeberha,09-01-2019
+South Africa,Pakistan,South Africa,5 wickets,Durban,10-01-2019
+New Zealand,India,India,8 wickets,Napier,11-01-2019
+U.A.E.,Nepal,U.A.E.,3 wickets,ICCA Dubai,12-01-2019
+South Africa,Pakistan,South Africa,13 runs,Centurion,13-01-2019
+New Zealand,India,India,90 runs,Mount Maunganui,14-01-2019
+U.A.E.,Nepal,Nepal,145 runs,ICCA Dubai,15-01-2019
+South Africa,Pakistan,Pakistan,8 wickets,Johannesburg,16-01-2019
+New Zealand,India,India,7 wickets,Mount Maunganui,17-01-2019
+U.A.E.,Nepal,Nepal,4 wickets,ICCA Dubai,18-01-2019
+South Africa,Pakistan,South Africa,7 wickets,Cape Town,19-01-2019
+New Zealand,India,New Zealand,8 wickets,Hamilton,20-01-2019
+New Zealand,India,India,35 runs,Wellington,21-01-2019
+New Zealand,Bangladesh,New Zealand,8 wickets,Napier,13-02-2019
+New Zealand,Bangladesh,New Zealand,8 wickets,Christchurch,16-02-2019
+New Zealand,Bangladesh,New Zealand,88 runs,Dunedin,20-02-2019
+West Indies,England,England,6 wickets,Bridgetown,20-02-2019
+West Indies,England,West Indies,26 runs,Bridgetown,22-02-2019
+West Indies,England,no result,-,St George's,25-02-2019
+West Indies,England,England,29 runs,St George's,27-02-2019
+Afghanistan,Ireland,Afghanistan,5 wickets,Dehradun,28-02-2019
+Afghanistan,Ireland,no result,-,Dehradun,02-03-2019
+India,Australia,India,6 wickets,Hyderabad,02-03-2019
+West Indies,England,West Indies,7 wickets,Gros Islet,02-03-2019
+South Africa,Sri Lanka,South Africa,8 wickets,Johannesburg,03-03-2019
+Afghanistan,Ireland,Ireland,4 wickets,Dehradun,05-03-2019
+India,Australia,India,8 runs,Nagpur,05-03-2019
+South Africa,Sri Lanka,South Africa,113 runs,Centurion,06-03-2019
+Afghanistan,Ireland,Afghanistan,109 runs,Dehradun,08-03-2019
+India,Australia,Australia,32 runs,Ranchi,08-03-2019
+Afghanistan,Ireland,Ireland,5 wickets,Dehradun,10-03-2019
+India,Australia,Australia,4 wickets,Mohali,10-03-2019
+South Africa,Sri Lanka,South Africa,71 runs,Durban,10-03-2019
+India,Australia,Australia,35 runs,Delhi,13-03-2019
+South Africa,Sri Lanka,South Africa,6 wickets,Gqeberha,13-03-2019
+South Africa,Sri Lanka,South Africa,41 runs,Cape Town,16-03-2019
+Australia,Pakistan,Australia,8 wickets,Sharjah,22-03-2019
+Australia,Pakistan,Australia,8 wickets,Sharjah,24-03-2019
+Australia,Pakistan,Australia,80 runs,Abu Dhabi,27-03-2019
+Australia,Pakistan,Australia,6 runs,Dubai (DSC),29-03-2019
+Australia,Pakistan,Australia,20 runs,Dubai (DSC),31-03-2019
+Zimbabwe,U.A.E.,Zimbabwe,7 wickets,Harare,01-04-2019
+Zimbabwe,U.A.E.,Zimbabwe,4 runs,Harare,02-04-2019
+Zimbabwe,U.A.E.,Zimbabwe,131 runs,Harare,03-04-2019
+Zimbabwe,U.A.E.,Zimbabwe,3 wickets,Harare,04-04-2019
+Namibia,Oman,Namibia,145 runs,Windhoek,05-04-2019
+P.N.G.,U.S.A.,P.N.G.,5 wickets,Windhoek,06-04-2019
+Ireland,England,England,4 wickets,Dublin (Malahide),07-04-2019
+Ireland,West Indies,West Indies,196 runs,Dublin,08-04-2019
+Bangladesh,West Indies,Bangladesh,8 wickets,Dublin,09-04-2019
+England,Pakistan,no result,-,The Oval,10-04-2019
+Scotland,Afghanistan,Afghanistan,2 runs,Edinburgh,10-05-2019
+Ireland,West Indies,West Indies,5 wickets,Dublin (Malahide),11-05-2019
+England,Pakistan,England,12 runs,Southampton,11-05-2019
+Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide),13-05-2019
+England,Pakistan,England,6 wickets,Bristol,14-05-2019
+Ireland,Bangladesh,Bangladesh,6 wickets,Dublin,15-05-2019
+Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide),17-05-2019
+England,Pakistan,England,3 wickets,Nottingham,17-05-2019
+Ireland,Afghanistan,Ireland,72 runs,Belfast,19-05-2019
+England,Pakistan,England,54 runs,Leeds,19-05-2019
+Ireland,Afghanistan,Afghanistan,126 runs,Belfast,21-05-2019
+Scotland,Sri Lanka,Sri Lanka,35 runs,Edinburgh,21-05-2019
+England,South Africa,England,104 runs,The Oval,30-05-2019
+Pakistan,West Indies,West Indies,7 wickets,Nottingham,31-05-2019
+New Zealand,Sri Lanka,New Zealand,10 wickets,Cardiff,01-06-2019
+Afghanistan,Australia,Australia,7 wickets,Bristol,01-06-2019
+Bangladesh,South Africa,Bangladesh,21 runs,The Oval,02-06-2019
+England,Pakistan,Pakistan,14 runs,Nottingham,03-06-2019
+Afghanistan,Sri Lanka,Sri Lanka,34 runs,Cardiff,04-06-2019
+India,South Africa,India,6 wickets,Southampton,05-06-2019
+Bangladesh,New Zealand,New Zealand,2 wickets,The Oval,05-06-2019
+Australia,West Indies,Australia,15 runs,Nottingham,06-06-2019
+England,Bangladesh,England,106 runs,Cardiff,08-06-2019
+Afghanistan,New Zealand,New Zealand,7 wickets,Taunton,08-06-2019
+Australia,India,India,36 runs,The Oval,09-06-2019
+South Africa,West Indies,no result,-,Southampton,10-06-2019
+Australia,Pakistan,Australia,41 runs,Taunton,12-06-2019
+England,West Indies,England,8 wickets,Southampton,14-06-2019
+Australia,Sri Lanka,Australia,87 runs,The Oval,15-06-2019
+Afghanistan,South Africa,South Africa,9 wickets,Cardiff,15-06-2019
+India,Pakistan,India,89 runs,Manchester,16-06-2019
+Bangladesh,West Indies,Bangladesh,7 wickets,Taunton,17-06-2019
+England,Afghanistan,England,150 runs,Manchester,18-06-2019
+Netherlands,Zimbabwe,Netherlands,7 wickets,Deventer,19-06-2019
+New Zealand,South Africa,New Zealand,4 wickets,Birmingham,19-06-2019
+Australia,Bangladesh,Australia,48 runs,Nottingham,20-06-2019
+Netherlands,Zimbabwe,Netherlands,3 wickets,Deventer,21-06-2019
+England,Sri Lanka,Sri Lanka,20 runs,Leeds,21-06-2019
+Afghanistan,India,India,11 runs,Southampton,22-06-2019
+New Zealand,West Indies,New Zealand,5 runs,Manchester,22-06-2019
+Pakistan,South Africa,Pakistan,49 runs,Lord's,23-06-2019
+Afghanistan,Bangladesh,Bangladesh,62 runs,Southampton,24-06-2019
+England,Australia,Australia,64 runs,Lord's,25-06-2019
+New Zealand,Pakistan,Pakistan,6 wickets,Birmingham,26-06-2019
+India,West Indies,India,125 runs,Manchester,27-06-2019
+South Africa,Sri Lanka,South Africa,9 wickets,Chester-le-Street,28-06-2019
+Afghanistan,Pakistan,Pakistan,3 wickets,Leeds,29-06-2019
+Australia,New Zealand,Australia,86 runs,Lord's,29-06-2019
+England,India,England,31 runs,Birmingham,30-06-2019
+Sri Lanka,West Indies,Sri Lanka,23 runs,Chester-le-Street,01-07-2019
+Ireland,Zimbabwe,Ireland,4 wickets,Bready,01-07-2019
+Bangladesh,India,India,28 runs,Birmingham,02-07-2019
+England,New Zealand,England,119 runs,Chester-le-Street,03-07-2019
+Afghanistan,West Indies,West Indies,23 runs,Leeds,04-07-2019
+Ireland,Zimbabwe,Ireland,5 runs,Belfast,04-07-2019
+Bangladesh,Pakistan,Pakistan,94 runs,Lord's,05-07-2019
+India,Sri Lanka,India,7 wickets,Leeds,06-07-2019
+Australia,South Africa,South Africa,10 runs,Manchester,06-07-2019
+Ireland,Zimbabwe,Ireland,6 wickets,Belfast,07-07-2019
+India,New Zealand,New Zealand,18 runs,Manchester,09-07-2019
+England,Australia,England,8 wickets,Birmingham,11-07-2019
+England,New Zealand,tied,-,Lord's,14-07-2019
+Sri Lanka,Bangladesh,Sri Lanka,91 runs,Colombo (RPS),26-07-2019
+Sri Lanka,Bangladesh,Sri Lanka,7 wickets,Colombo (RPS),28-07-2019
+Sri Lanka,Bangladesh,Sri Lanka,122 runs,Colombo (RPS),31-07-2019
+West Indies,India,no result,-,Providence,08-08-2019
+West Indies,India,India,59 runs,Port of Spain,11-08-2019
+Oman,P.N.G.,Oman,4 wickets,Aberdeen,14-08-2019
+West Indies,India,India,6 wickets,Port of Spain,14-08-2019
+Scotland,Oman,Oman,8 wickets,Aberdeen,15-08-2019
+Scotland,P.N.G.,Scotland,3 wickets,Aberdeen,17-08-2019
+Scotland,Oman,Scotland,85 runs,Aberdeen,18-08-2019
+Scotland,P.N.G.,Scotland,38 runs,Aberdeen,20-08-2019
+Oman,P.N.G.,Oman,4 wickets,Aberdeen,21-08-2019
+U.S.A.,P.N.G.,U.S.A.,5 runs,Lauderhill,13-09-2019
+U.S.A.,Namibia,U.S.A.,5 wickets,Lauderhill,17-09-2019
+U.S.A.,P.N.G.,U.S.A.,62 runs,Lauderhill,19-09-2019
+U.S.A.,Namibia,Namibia,139 runs,Lauderhill,20-09-2019
+Namibia,P.N.G.,Namibia,4 wickets,Lauderhill,22-09-2019
+Namibia,P.N.G.,Namibia,27 runs,Lauderhill,23-09-2019
+Pakistan,Sri Lanka,Pakistan,67 runs,Karachi,30-09-2019
+Pakistan,Sri Lanka,Pakistan,5 wickets,Karachi,02-10-2019
+Afghanistan,West Indies,West Indies,7 wickets,Lucknow,06-11-2019
+Afghanistan,West Indies,West Indies,47 runs,Lucknow,09-11-2019
+Afghanistan,West Indies,West Indies,5 wickets,Lucknow,11-11-2019
+U.A.E.,U.S.A.,U.S.A.,3 wickets,Sharjah,08-12-2019
+Scotland,U.S.A.,U.S.A.,35 runs,Sharjah,09-12-2019
+U.A.E.,U.S.A.,U.S.A.,98 runs,ICCA Dubai,12-12-2019
+Scotland,U.S.A.,Scotland,4 wickets,ICCA Dubai,14-12-2019
+U.A.E.,Scotland,U.A.E.,7 wickets,ICCA Dubai,15-12-2019
+India,West Indies,West Indies,8 wickets,Chennai,15-12-2019
+India,West Indies,India,107 runs,Visakhapatnam,18-12-2019
+India,West Indies,India,4 wickets,Cuttack,22-12-2019
+Oman,U.A.E.,Oman,5 wickets,Al Amerat,05-01-2020
+Namibia,U.A.E.,U.A.E.,8 runs,Al Amerat,06-01-2020
+West Indies,Ireland,West Indies,5 wickets,Bridgetown,07-01-2020
+Oman,Namibia,Namibia,52 runs,Al Amerat,08-01-2020
+Namibia,U.A.E.,U.A.E.,8 wickets,Al Amerat,09-01-2020
+West Indies,Ireland,West Indies,1 wicket,Bridgetown,09-01-2020
+West Indies,Ireland,West Indies,5 wickets,St George's,12-01-2020
+India,Australia,Australia,10 wickets,Wankhede,14-01-2020
+India,Australia,India,36 runs,Rajkot,17-01-2020
+India,Australia,India,7 wickets,Bengaluru,19-01-2020
+South Africa,England,South Africa,7 wickets,Cape Town,04-02-2020
+New Zealand,India,New Zealand,4 wickets,Hamilton,05-02-2020
+Nepal,Oman,Oman,18 runs,Kirtipur,05-02-2020
+Oman,U.S.A.,Oman,6 wickets,Kirtipur,06-02-2020
+South Africa,England,no result,-,Durban,07-02-2020
+New Zealand,India,New Zealand,22 runs,Auckland,08-02-2020
+Nepal,U.S.A.,Nepal,35 runs,Kirtipur,08-02-2020
+Nepal,Oman,Oman,8 wickets,Kirtipur,09-02-2020
+South Africa,England,England,2 wickets,Johannesburg,09-02-2020
+New Zealand,India,New Zealand,5 wickets,Mount Maunganui,11-02-2020
+Oman,U.S.A.,Oman,92 runs,Kirtipur,11-02-2020
+Nepal,U.S.A.,Nepal,8 wickets,Kirtipur,12-02-2020
+Sri Lanka,West Indies,Sri Lanka,1 wicket,Colombo (SSC),22-02-2020
+Sri Lanka,West Indies,Sri Lanka,161 runs,Hambantota,26-02-2020
+South Africa,Australia,South Africa,74 runs,Paarl,29-02-2020
+Bangladesh,Zimbabwe,Bangladesh,169 runs,Sylhet,01-03-2020
+Sri Lanka,West Indies,Sri Lanka,6 runs,Pallekele,01-03-2020
+Bangladesh,Zimbabwe,Bangladesh,4 runs,Sylhet,03-03-2020
+South Africa,Australia,South Africa,6 wickets,Bloemfontein,04-03-2020
+Bangladesh,Zimbabwe,Bangladesh,123 runs,Sylhet,06-03-2020
+South Africa,Australia,South Africa,6 wickets,Potchefstroom,07-03-2020
+Australia,New Zealand,Australia,71 runs,Sydney,13-03-2020
+England,Ireland,England,6 wickets,Southampton,30-07-2020
+England,Ireland,England,4 wickets,Southampton,01-08-2020
+England,Ireland,Ireland,7 wickets,Southampton,04-08-2020
+England,Australia,Australia,19 runs,Manchester,11-09-2020
+England,Australia,England,24 runs,Manchester,13-09-2020
+England,Australia,Australia,3 wickets,Manchester,16-09-2020
+Pakistan,Zimbabwe,Pakistan,26 runs,Rawalpindi,30-10-2020
+Pakistan,Zimbabwe,Pakistan,6 wickets,Rawalpindi,01-11-2020
+Pakistan,Zimbabwe,tied,-,Rawalpindi,03-11-2020
+Australia,India,Australia,66 runs,Sydney,27-11-2020
+Australia,India,Australia,51 runs,Sydney,29-11-2020
+Australia,India,India,13 runs,Canberra,02-12-2020
+U.A.E.,Ireland,U.A.E.,6 wickets,Abu Dhabi,08-01-2021
+U.A.E.,Ireland,Ireland,112 runs,Abu Dhabi,18-01-2021
+Bangladesh,West Indies,Bangladesh,6 wickets,Mirpur,20-01-2021
+Afghanistan,Ireland,Afghanistan,16 runs,Abu Dhabi,21-01-2021
+Bangladesh,West Indies,Bangladesh,7 wickets,Mirpur,22-01-2021
+Afghanistan,Ireland,Afghanistan,7 wickets,Abu Dhabi,24-01-2021
+Bangladesh,West Indies,Bangladesh,120 runs,Chattogram,25-01-2021
+Afghanistan,Ireland,Afghanistan,36 runs,Abu Dhabi,26-01-2021
+West Indies,Sri Lanka,West Indies,8 wickets,North Sound,10-03-2021
+West Indies,Sri Lanka,West Indies,5 wickets,North Sound,12-03-2021
+West Indies,Sri Lanka,West Indies,5 wickets,North Sound,14-03-2021
+New Zealand,Bangladesh,New Zealand,8 wickets,Dunedin,20-03-2021
+New Zealand,Bangladesh,New Zealand,5 wickets,Christchurch,23-03-2021
+India,England,India,66 runs,Pune,23-03-2021
+New Zealand,Bangladesh,New Zealand,164 runs,Wellington,26-03-2021
+India,England,England,6 wickets,Pune,26-03-2021
+India,England,India,7 runs,Pune,28-03-2021
+South Africa,Pakistan,Pakistan,3 wickets,Centurion,02-04-2021
+South Africa,Pakistan,South Africa,17 runs,Johannesburg,04-04-2021
+South Africa,Pakistan,Pakistan,28 runs,Centurion,07-04-2021
+Netherlands,Scotland,Netherlands,14 runs,Rotterdam,19-05-2021
+Netherlands,Scotland,Scotland,6 wickets,Rotterdam,20-05-2021
+Bangladesh,Sri Lanka,Bangladesh,33 runs,Mirpur,23-05-2021
+Bangladesh,Sri Lanka,Bangladesh,103 runs,Mirpur,25-05-2021
+Bangladesh,Sri Lanka,Sri Lanka,97 runs,Mirpur,28-05-2021
+Netherlands,Ireland,Netherlands,1 run,Utrecht,02-06-2021
+Netherlands,Ireland,Ireland,8 wickets,Utrecht,04-06-2021
+Netherlands,Ireland,Netherlands,4 wickets,Utrecht,07-06-2021
+England,Sri Lanka,England,5 wickets,Chester-le-Street,29-06-2021
+England,Sri Lanka,England,8 wickets,The Oval,01-07-2021
+England,Sri Lanka,no result,-,Bristol,04-07-2021
+England,Pakistan,England,9 wickets,Cardiff,08-07-2021
+England,Pakistan,England,52 runs,Lord's,10-07-2021
+Ireland,South Africa,no result,-,Dublin (Malahide),11-07-2021
+Ireland,South Africa,Ireland,43 runs,Dublin (Malahide),13-07-2021
+England,Pakistan,England,3 wickets,Birmingham,13-07-2021
+Zimbabwe,Bangladesh,Bangladesh,155 runs,Harare,16-07-2021
+Ireland,South Africa,South Africa,70 runs,Dublin (Malahide),16-07-2021
+Zimbabwe,Bangladesh,Bangladesh,3 wickets,Harare,18-07-2021
+Sri Lanka,India,India,7 wickets,Colombo (RPS),18-07-2021
+Zimbabwe,Bangladesh,Bangladesh,5 wickets,Harare,20-07-2021
+Sri Lanka,India,India,3 wickets,Colombo (RPS),20-07-2021
+West Indies,Australia,Australia,133 runs,Bridgetown,20-07-2021
+Sri Lanka,India,Sri Lanka,3 wickets,Colombo (RPS),23-07-2021
+West Indies,Australia,West Indies,4 wickets,Bridgetown,24-07-2021
+West Indies,Australia,Australia,6 wickets,Bridgetown,26-07-2021
+Sri Lanka,South Africa,Sri Lanka,14 runs,Colombo (RPS),02-09-2021
+Sri Lanka,South Africa,South Africa,67 runs,Colombo (RPS),04-09-2021
+P.N.G.,U.S.A.,U.S.A.,7 wickets,Al Amerat,06-09-2021
+Nepal,P.N.G.,Nepal,2 wickets,Al Amerat,07-09-2021
+Sri Lanka,South Africa,Sri Lanka,78 runs,Colombo (RPS),07-09-2021
+Ireland,Zimbabwe,Zimbabwe,38 runs,Belfast,08-09-2021
+P.N.G.,U.S.A.,U.S.A.,134 runs,Al Amerat,09-09-2021
+Ireland,Zimbabwe,no result,-,Belfast,10-09-2021
+Nepal,P.N.G.,Nepal,151 runs,Al Amerat,10-09-2021
+Ireland,Zimbabwe,Ireland,7 wickets,Belfast,13-09-2021
+Nepal,U.S.A.,Nepal,5 wickets,Al Amerat,13-09-2021
+Oman,Nepal,Oman,5 wickets,Al Amerat,14-09-2021
+Oman,U.S.A.,Oman,4 wickets,Al Amerat,16-09-2021
+Nepal,U.S.A.,U.S.A.,6 wickets,Al Amerat,17-09-2021
+Oman,Nepal,Nepal,7 wickets,Al Amerat,19-09-2021
+Oman,U.S.A.,Oman,72 runs,Al Amerat,20-09-2021
+P.N.G.,Scotland,Scotland,6 wickets,Al Amerat,25-09-2021
+Oman,P.N.G.,Oman,110 runs,Al Amerat,26-09-2021
+Oman,Scotland,Scotland,18 runs,Al Amerat,28-09-2021
+P.N.G.,Scotland,Scotland,4 wickets,Al Amerat,29-09-2021
+Oman,P.N.G.,Oman,3 wickets,Al Amerat,01-10-2021
+Oman,Scotland,no result,-,Al Amerat,02-10-2021
+Namibia,Oman,Namibia,40 runs,Windhoek,26-11-2021
+South Africa,Netherlands,no result,-,Centurion,26-11-2021
+Namibia,Oman,Oman,9 runs,Windhoek,27-11-2021
+West Indies,Ireland,West Indies,24 runs,Kingston,08-01-2022
+West Indies,Ireland,Ireland,5 wickets,Kingston,13-01-2022
+Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Pallekele,16-01-2022
+West Indies,Ireland,Ireland,2 wickets,Kingston,16-01-2022
+Sri Lanka,Zimbabwe,Zimbabwe,22 runs,Pallekele,18-01-2022
+South Africa,India,South Africa,31 runs,Paarl,19-01-2022
+Afghanistan,Netherlands,Afghanistan,36 runs,Doha,21-01-2022
+South Africa,India,South Africa,7 wickets,Paarl,21-01-2022
+Sri Lanka,Zimbabwe,Sri Lanka,184 runs,Pallekele,21-01-2022
+Afghanistan,Netherlands,Afghanistan,48 runs,Doha,23-01-2022
+South Africa,India,South Africa,4 runs,Cape Town,23-01-2022
+Afghanistan,Netherlands,Afghanistan,75 runs,Doha,25-01-2022
+Oman,U.A.E.,U.A.E.,4 wickets,Al Amerat,05-02-2022
+Oman,U.A.E.,U.A.E.,4 wickets,Al Amerat,06-02-2022
+India,West Indies,India,6 wickets,Ahmedabad,06-02-2022
+Oman,U.A.E.,tied,-,Al Amerat,08-02-2022
+India,West Indies,India,44 runs,Ahmedabad,09-02-2022
+India,West Indies,India,96 runs,Ahmedabad,11-02-2022
+Bangladesh,Afghanistan,Bangladesh,4 wickets,Chattogram,23-02-2022
+Bangladesh,Afghanistan,Bangladesh,88 runs,Chattogram,25-02-2022
+Bangladesh,Afghanistan,Afghanistan,7 wickets,Chattogram,28-02-2022
+U.A.E.,Oman,Oman,12 runs,ICCA Dubai,05-03-2022
+Namibia,Oman,Namibia,110 runs,ICCA Dubai,06-03-2022
+U.A.E.,Namibia,U.A.E.,3 wickets,ICCA Dubai,08-03-2022
+U.A.E.,Oman,Oman,8 runs,ICCA Dubai,09-03-2022
+Namibia,Oman,Oman,7 wickets,Sharjah,11-03-2022
+U.A.E.,Namibia,U.A.E.,43 runs,Sharjah,12-03-2022
+Namibia,Oman,Namibia,5 wickets,Dubai (DSC),14-03-2022
+U.A.E.,P.N.G.,U.A.E.,7 wickets,Sharjah,15-03-2022
+Nepal,P.N.G.,Nepal,2 wickets,Sharjah,16-03-2022
+U.A.E.,Nepal,U.A.E.,48 runs,Dubai (DSC),18-03-2022
+South Africa,Bangladesh,Bangladesh,38 runs,Centurion,18-03-2022
+U.A.E.,P.N.G.,P.N.G.,6 wickets,Dubai (DSC),19-03-2022
+South Africa,Bangladesh,South Africa,7 wickets,Johannesburg,20-03-2022
+U.A.E.,Nepal,U.A.E.,99 runs,Dubai (DSC),21-03-2022
+Nepal,P.N.G.,Nepal,7 wickets,Dubai (DSC),22-03-2022
+South Africa,Bangladesh,Bangladesh,9 wickets,Centurion,23-03-2022
+Nepal,P.N.G.,P.N.G.,6 runs,Kirtipur,25-03-2022
+Nepal,P.N.G.,P.N.G.,3 wickets,Kirtipur,26-03-2022
+New Zealand,Netherlands,New Zealand,7 wickets,Mount Maunganui,29-03-2022
+Pakistan,Australia,Australia,88 runs,Lahore,29-03-2022
+Pakistan,Australia,Pakistan,6 wickets,Lahore,31-03-2022
+New Zealand,Netherlands,New Zealand,118 runs,Hamilton,02-04-2022
+Pakistan,Australia,Pakistan,9 wickets,Lahore,02-04-2022
+New Zealand,Netherlands,New Zealand,115 runs,Hamilton,04-04-2022
+P.N.G.,Scotland,Scotland,162 runs,Dubai (DSC),09-04-2022
+Oman,Scotland,Scotland,4 runs,Dubai (DSC),10-04-2022
+Oman,P.N.G.,Oman,7 wickets,Dubai (DSC),12-04-2022
+P.N.G.,Scotland,Scotland,123 runs,Dubai (DSC),13-04-2022
+Oman,Scotland,Scotland,2 wickets,Dubai (DSC),15-04-2022
+Oman,P.N.G.,Oman,85 runs,Dubai (DSC),16-04-2022
+U.S.A.,Scotland,U.S.A.,104 runs,Pearland,28-05-2022
+U.S.A.,Scotland,Scotland,111 runs,Pearland,29-05-2022
+Netherlands,West Indies,West Indies,7 wickets,Amstelveen,31-05-2022
+Scotland,U.A.E.,Scotland,4 wickets,Pearland,31-05-2022
+U.S.A.,U.A.E.,U.S.A.,4 wickets,Pearland,01-06-2022
+Netherlands,West Indies,West Indies,5 wickets,Amstelveen,02-06-2022
+Scotland,U.A.E.,U.A.E.,5 wickets,Pearland,03-06-2022
+Zimbabwe,Afghanistan,Afghanistan,60 runs,Harare,04-06-2022
+Netherlands,West Indies,West Indies,20 runs,Amstelveen,04-06-2022
+U.S.A.,U.A.E.,U.A.E.,8 wickets,Pearland,04-06-2022
+Zimbabwe,Afghanistan,Afghanistan,8 wickets,Harare,06-06-2022
+Pakistan,West Indies,Pakistan,5 wickets,Multan,08-06-2022
+U.S.A.,Oman,U.S.A.,114 runs,Pearland,08-06-2022
+Zimbabwe,Afghanistan,Afghanistan,4 wickets,Harare,09-06-2022
+Nepal,Oman,Oman,13 runs,Pearland,09-06-2022
+Pakistan,West Indies,Pakistan,120 runs,Multan,10-06-2022
+U.S.A.,Nepal,tied,-,Pearland,11-06-2022
+Pakistan,West Indies,Pakistan,53 runs,Multan,12-06-2022
+U.S.A.,Oman,Oman,13 runs,Pearland,12-06-2022
+Sri Lanka,Australia,Australia,2 wickets,Pallekele,14-06-2022
+Nepal,Oman,Nepal,7 wickets,Pearland,14-06-2022
+U.S.A.,Nepal,U.S.A.,39 runs,Pearland,15-06-2022
+Sri Lanka,Australia,Sri Lanka,26 runs,Pallekele,16-06-2022
+Netherlands,England,England,232 runs,Amstelveen,17-06-2022
+Netherlands,England,England,6 wickets,Amstelveen,19-06-2022
+Sri Lanka,Australia,Sri Lanka,6 wickets,Colombo (RPS),19-06-2022
+Sri Lanka,Australia,Sri Lanka,4 runs,Colombo (RPS),21-06-2022
+Netherlands,England,England,8 wickets,Amstelveen,22-06-2022
+Sri Lanka,Australia,Australia,4 wickets,Colombo (RPS),24-06-2022
+Ireland,New Zealand,New Zealand,1 wicket,Dublin (Malahide),10-07-2022
+Scotland,Namibia,Scotland,77 runs,Glasgow,10-07-2022
+West Indies,Bangladesh,Bangladesh,6 wickets,Providence,10-07-2022
+Namibia,Nepal,Namibia,40 runs,Ayr,11-07-2022
+Ireland,New Zealand,New Zealand,3 wickets,Dublin (Malahide),12-07-2022
+England,India,India,10 wickets,The Oval,12-07-2022
+Scotland,Nepal,Nepal,5 wickets,Glasgow,13-07-2022
+West Indies,Bangladesh,Bangladesh,9 wickets,Providence,13-07-2022
+Scotland,Namibia,Scotland,3 wickets,Glasgow,14-07-2022
+England,India,England,100 runs,Lord's,14-07-2022
+Ireland,New Zealand,New Zealand,1 run,Dublin (Malahide),15-07-2022
+Namibia,Nepal,Namibia,63 runs,Ayr,16-07-2022
+West Indies,Bangladesh,Bangladesh,4 wickets,Providence,16-07-2022
+Scotland,Nepal,Scotland,8 wickets,Glasgow,17-07-2022
+England,India,India,5 wickets,Manchester,17-07-2022
+England,South Africa,South Africa,62 runs,Chester-le-Street,19-07-2022
+England,South Africa,England,118 runs,Manchester,22-07-2022
+West Indies,India,India,3 runs,Port of Spain,22-07-2022
+England,South Africa,no result,-,Leeds,24-07-2022
+West Indies,India,India,2 wickets,Port of Spain,24-07-2022
+West Indies,India,India,119 runs,Port of Spain,27-07-2022
+Scotland,New Zealand,New Zealand,7 wickets,Edinburgh,31-07-2022
+Zimbabwe,Bangladesh,Zimbabwe,5 wickets,Harare,05-08-2022
+Zimbabwe,Bangladesh,Zimbabwe,5 wickets,Harare,07-08-2022
+Zimbabwe,Bangladesh,Bangladesh,105 runs,Harare,10-08-2022
+Scotland,U.A.E.,Scotland,64 runs,Aberdeen,10-08-2022
+U.A.E.,U.S.A.,U.S.A.,1 wicket,Aberdeen,11-08-2022
+Scotland,U.S.A.,Scotland,5 wickets,Aberdeen,13-08-2022
+Scotland,U.A.E.,Scotland,86 runs,Aberdeen,14-08-2022
+Netherlands,Pakistan,Pakistan,16 runs,Rotterdam,16-08-2022
+Scotland,U.S.A.,U.S.A.,2 wickets,Aberdeen,17-08-2022
+West Indies,New Zealand,West Indies,5 wickets,Bridgetown,17-08-2022
+Zimbabwe,India,India,10 wickets,Harare,18-08-2022
+Netherlands,Pakistan,Pakistan,7 wickets,Rotterdam,18-08-2022
+West Indies,New Zealand,New Zealand,50 runs,Bridgetown,19-08-2022
+Zimbabwe,India,India,5 wickets,Harare,20-08-2022
+Netherlands,Pakistan,Pakistan,9 runs,Rotterdam,21-08-2022
+West Indies,New Zealand,New Zealand,5 wickets,Bridgetown,21-08-2022
+Zimbabwe,India,India,13 runs,Harare,22-08-2022
+Australia,Zimbabwe,Australia,5 wickets,Townsville,28-08-2022
+Australia,Zimbabwe,Australia,8 wickets,Townsville,31-08-2022
+Australia,Zimbabwe,Zimbabwe,3 wickets,Townsville,03-09-2022
+Australia,New Zealand,Australia,2 wickets,Cairns,06-09-2022
+Australia,New Zealand,Australia,113 runs,Cairns,08-09-2022
+P.N.G.,U.S.A.,tied,-,Port Moresby,11-09-2022
+Australia,New Zealand,Australia,25 runs,Cairns,11-09-2022
+P.N.G.,U.S.A.,P.N.G.,26 runs,Port Moresby,13-09-2022
+Namibia,U.S.A.,Namibia,79 runs,Port Moresby,15-09-2022
+Namibia,U.S.A.,Namibia,68 runs,Port Moresby,17-09-2022
+P.N.G.,Namibia,Namibia,167 runs,Port Moresby,20-09-2022
+P.N.G.,Namibia,Namibia,61 runs,Port Moresby,21-09-2022
+India,South Africa,South Africa,9 runs,Lucknow,06-10-2022
+India,South Africa,India,7 wickets,Ranchi,09-10-2022
+India,South Africa,India,7 wickets,Delhi,11-10-2022
+Nepal,U.A.E.,U.A.E.,84 runs,Kirtipur,14-11-2022
+Nepal,U.A.E.,Nepal,3 wickets,Kirtipur,16-11-2022
+Australia,England,Australia,6 wickets,Adelaide,17-11-2022
+Nepal,U.A.E.,Nepal,6 wickets,Kirtipur,18-11-2022
+Australia,England,Australia,72 runs,Sydney,19-11-2022
+Namibia,P.N.G.,Namibia,8 wickets,Windhoek,19-11-2022
+Namibia,U.S.A.,U.S.A.,71 runs,Windhoek,20-11-2022
+Australia,England,Australia,221 runs,Melbourne,22-11-2022
+P.N.G.,U.S.A.,U.S.A.,6 wickets,Windhoek,22-11-2022
+Namibia,P.N.G.,Namibia,3 wickets,Windhoek,23-11-2022
+New Zealand,India,New Zealand,7 wickets,Auckland,25-11-2022
+P.N.G.,U.S.A.,U.S.A.,35 runs,Windhoek,25-11-2022
+Sri Lanka,Afghanistan,Afghanistan,60 runs,Pallekele,25-11-2022
+Namibia,U.S.A.,Namibia,6 wickets,Windhoek,26-11-2022
+New Zealand,India,no result,-,Hamilton,27-11-2022
+Sri Lanka,Afghanistan,no result,-,Pallekele,27-11-2022
+New Zealand,India,no result,-,Christchurch,30-11-2022
+Sri Lanka,Afghanistan,Sri Lanka,4 wickets,Pallekele,30-11-2022
+Namibia,Scotland,Scotland,4 wickets,Windhoek,01-12-2022
+Namibia,Nepal,no result,-,Windhoek,02-12-2022
+Bangladesh,India,Bangladesh,1 wicket,Mirpur,04-12-2022
+Nepal,Scotland,Scotland,3 wickets,Windhoek,04-12-2022
+Namibia,Scotland,Namibia,3 wickets,Windhoek,05-12-2022
+Bangladesh,India,Bangladesh,5 runs,Mirpur,07-12-2022
+Namibia,Nepal,Namibia,86 runs,Windhoek,07-12-2022
+Nepal,Scotland,Scotland,8 wickets,Windhoek,08-12-2022
+Bangladesh,India,India,227 runs,Chattogram,10-12-2022
+Pakistan,New Zealand,Pakistan,6 wickets,Karachi,09-01-2023
+India,Sri Lanka,India,67 runs,Guwahati,10-01-2023
+Pakistan,New Zealand,New Zealand,79 runs,Karachi,11-01-2023
+India,Sri Lanka,India,4 wickets,Eden Gardens,12-01-2023
+Pakistan,New Zealand,New Zealand,2 wickets,Karachi,13-01-2023
+India,Sri Lanka,India,317 runs,Thiruvananthapuram,15-01-2023
+Zimbabwe,Ireland,Zimbabwe,3 wickets,Harare,18-01-2023
+India,New Zealand,India,12 runs,Hyderabad,18-01-2023
+Zimbabwe,Ireland,Ireland,46 runs,Harare,21-01-2023
+India,New Zealand,India,8 wickets,Raipur,21-01-2023
+Zimbabwe,Ireland,no result,-,Harare,23-01-2023
+India,New Zealand,India,90 runs,Indore,24-01-2023
+South Africa,England,South Africa,27 runs,Bloemfontein,27-01-2023
+South Africa,England,South Africa,5 wickets,Bloemfontein,29-01-2023
+South Africa,England,England,59 runs,Kimberley,01-02-2023
+Nepal,Namibia,Nepal,2 wickets,Kirtipur,14-02-2023
+Namibia,Scotland,Scotland,10 wickets,Kirtipur,15-02-2023
+Nepal,Scotland,Nepal,3 wickets,Kirtipur,17-02-2023
+Nepal,Namibia,Nepal,3 wickets,Kirtipur,18-02-2023
+Namibia,Scotland,Scotland,43 runs,Kirtipur,20-02-2023
+Nepal,Scotland,Nepal,2 wickets,Kirtipur,21-02-2023
+U.A.E.,Namibia,U.A.E.,1 wicket,Dubai (DSC),23-02-2023
+U.A.E.,Namibia,Namibia,7 wickets,Dubai (DSC),25-02-2023
+Nepal,P.N.G.,Nepal,4 wickets,Dubai (DSC),27-02-2023
+U.A.E.,P.N.G.,P.N.G.,131 runs,Dubai (DSC),28-02-2023
+Bangladesh,England,England,3 wickets,Mirpur,01-03-2023
+U.A.E.,Nepal,U.A.E.,68 runs,Dubai (DSC),02-03-2023
+Nepal,P.N.G.,Nepal,3 wickets,Dubai (DSC),03-03-2023
+Bangladesh,England,England,132 runs,Mirpur,03-03-2023
+U.A.E.,P.N.G.,P.N.G.,5 wickets,Dubai (DSC),05-03-2023
+U.A.E.,Nepal,Nepal,42 runs,Dubai (DSC),06-03-2023
+Bangladesh,England,Bangladesh,50 runs,Chattogram,06-03-2023
+Nepal,P.N.G.,Nepal,52 runs,Kirtipur,09-03-2023
+P.N.G.,U.A.E.,P.N.G.,56 runs,Kirtipur,10-03-2023
+Nepal,U.A.E.,Nepal,177 runs,Kirtipur,12-03-2023
+Nepal,P.N.G.,Nepal,9 wickets,Kirtipur,13-03-2023
+P.N.G.,U.A.E.,U.A.E.,6 wickets,Kirtipur,15-03-2023
+Nepal,U.A.E.,Nepal,9 runs,Kirtipur,16-03-2023
+India,Australia,India,5 wickets,Wankhede,17-03-2023
+Bangladesh,Ireland,Bangladesh,183 runs,Sylhet,18-03-2023
+South Africa,West Indies,West Indies,48 runs,East London,18-03-2023
+India,Australia,Australia,10 wickets,Visakhapatnam,19-03-2023
+Bangladesh,Ireland,no result,-,Sylhet,20-03-2023
+Zimbabwe,Netherlands,Netherlands,3 wickets,Harare,21-03-2023
+South Africa,West Indies,South Africa,4 wickets,Potchefstroom,21-03-2023
+India,Australia,Australia,21 runs,Chennai,22-03-2023
+Zimbabwe,Netherlands,Zimbabwe,1 run,Harare,23-03-2023
+Bangladesh,Ireland,Bangladesh,10 wickets,Sylhet,23-03-2023
+New Zealand,Sri Lanka,New Zealand,198 runs,Auckland,25-03-2023
+Zimbabwe,Netherlands,Zimbabwe,7 wickets,Harare,25-03-2023
+Namibia,U.S.A.,U.S.A.,80 runs,Windhoek,26-03-2023
+P.N.G.,U.A.E.,U.A.E.,21 runs,Windhoek,27-03-2023
+Canada,Jersey,Canada,31 runs,Windhoek,27-03-2023
+Canada,U.S.A.,Canada,26 runs,Windhoek,29-03-2023
+Namibia,P.N.G.,Namibia,48 runs,Windhoek,29-03-2023
+Namibia,Jersey,Namibia,8 wickets,Windhoek,30-03-2023
+U.A.E.,U.S.A.,U.S.A.,5 wickets,Windhoek,30-03-2023
+New Zealand,Sri Lanka,New Zealand,6 wickets,Hamilton,31-03-2023
+South Africa,Netherlands,South Africa,8 wickets,Benoni,31-03-2023
+Canada,U.A.E.,U.A.E.,6 wickets,Windhoek,01-04-2023
+Jersey,P.N.G.,Jersey,11 runs,Windhoek,01-04-2023
+P.N.G.,U.S.A.,U.S.A.,117 runs,Windhoek,02-04-2023
+Namibia,U.A.E.,U.A.E.,28 runs,Windhoek,02-04-2023
+South Africa,Netherlands,South Africa,146 runs,Johannesburg,02-04-2023
+Namibia,Canada,Namibia,111 runs,Windhoek,04-04-2023
+Jersey,U.S.A.,U.S.A.,25 runs,Windhoek,04-04-2023
+Jersey,U.A.E.,U.A.E.,66 runs,Windhoek,05-04-2023
+Canada,P.N.G.,Canada,90 runs,Windhoek,05-04-2023
+Nepal,Oman,Nepal,84 runs,Kirtipur,21-04-2023
+Pakistan,New Zealand,Pakistan,5 wickets,Rawalpindi,27-04-2023
+Oman,U.A.E.,U.A.E.,2 runs,Mulpani,29-04-2023
+Pakistan,New Zealand,Pakistan,7 wickets,Rawalpindi,29-04-2023
+Nepal,U.A.E.,Nepal,7 wickets,Kirtipur,01-05-2023
+Pakistan,New Zealand,Pakistan,26 runs,Karachi,03-05-2023
+Pakistan,New Zealand,Pakistan,102 runs,Karachi,05-05-2023
+Pakistan,New Zealand,New Zealand,47 runs,Karachi,07-05-2023
+Bangladesh,Ireland,no result,-,Chelmsford,09-05-2023
+Bangladesh,Ireland,Bangladesh,3 wickets,Chelmsford,12-05-2023
+Bangladesh,Ireland,Bangladesh,5 runs,Chelmsford,14-05-2023
+Sri Lanka,Afghanistan,Afghanistan,6 wickets,Hambantota,02-06-2023
+Sri Lanka,Afghanistan,Sri Lanka,132 runs,Hambantota,04-06-2023
+U.A.E.,West Indies,West Indies,7 wickets,Sharjah,04-06-2023
+U.A.E.,West Indies,West Indies,78 runs,Sharjah,06-06-2023
+Sri Lanka,Afghanistan,Sri Lanka,9 wickets,Hambantota,07-06-2023
+U.A.E.,West Indies,West Indies,4 wickets,Sharjah,09-06-2023
+Zimbabwe,Nepal,Zimbabwe,8 wickets,Harare,18-06-2023
+U.S.A.,West Indies,West Indies,39 runs,Harare,18-06-2023
+Sri Lanka,U.A.E.,Sri Lanka,175 runs,Bulawayo,19-06-2023
+Ireland,Oman,Oman,5 wickets,Bulawayo,19-06-2023
+Zimbabwe,Netherlands,Zimbabwe,6 wickets,Harare,20-06-2023
+Nepal,U.S.A.,Nepal,6 wickets,Harare,20-06-2023
+Ireland,Scotland,Scotland,1 wicket,Bulawayo,21-06-2023
+Oman,U.A.E.,Oman,5 wickets,Bulawayo,21-06-2023
+Nepal,West Indies,West Indies,101 runs,Harare,22-06-2023
+Netherlands,U.S.A.,Netherlands,5 wickets,Harare,22-06-2023
+Oman,Sri Lanka,Sri Lanka,10 wickets,Bulawayo,23-06-2023
+Scotland,U.A.E.,Scotland,111 runs,Bulawayo,23-06-2023
+Zimbabwe,West Indies,Zimbabwe,35 runs,Harare,24-06-2023
+Nepal,Netherlands,Netherlands,7 wickets,Harare,24-06-2023
+Ireland,Sri Lanka,Sri Lanka,133 runs,Bulawayo,25-06-2023
+Oman,Scotland,Scotland,76 runs,Bulawayo,25-06-2023
+Zimbabwe,U.S.A.,Zimbabwe,304 runs,Harare,26-06-2023
+Netherlands,West Indies,tied,-,Harare,26-06-2023
+Scotland,Sri Lanka,Sri Lanka,82 runs,Bulawayo,27-06-2023
+Ireland,U.A.E.,Ireland,138 runs,Bulawayo,27-06-2023
+Zimbabwe,Oman,Zimbabwe,14 runs,Bulawayo,29-06-2023
+Netherlands,Sri Lanka,Sri Lanka,21 runs,Bulawayo,30-06-2023
+Ireland,U.S.A.,Ireland,6 wickets,Harare,30-06-2023
+Scotland,West Indies,Scotland,7 wickets,Harare,01-07-2023
+Zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Bulawayo,02-07-2023
+Nepal,U.A.E.,Nepal,3 wickets,Harare,02-07-2023
+Netherlands,Oman,Netherlands,74 runs,Harare,03-07-2023
+Zimbabwe,Scotland,Scotland,31 runs,Bulawayo,04-07-2023
+Ireland,Nepal,Ireland,2 wickets,Harare,04-07-2023
+Oman,West Indies,West Indies,7 wickets,Harare,05-07-2023
+Bangladesh,Afghanistan,Afghanistan,17 runs,Chattogram,05-07-2023
+Netherlands,Scotland,Netherlands,4 wickets,Bulawayo,06-07-2023
+U.A.E.,U.S.A.,U.A.E.,1 run,Harare,06-07-2023
+Sri Lanka,West Indies,Sri Lanka,8 wickets,Harare,07-07-2023
+Bangladesh,Afghanistan,Afghanistan,142 runs,Chattogram,08-07-2023
+Netherlands,Sri Lanka,Sri Lanka,128 runs,Harare,09-07-2023
+Bangladesh,Afghanistan,Bangladesh,7 wickets,Chattogram,11-07-2023
+West Indies,India,India,5 wickets,Bridgetown,27-07-2023
+West Indies,India,West Indies,6 wickets,Bridgetown,29-07-2023
+West Indies,India,India,200 runs,Tarouba,01-08-2023
