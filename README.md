@@ -1,4 +1,4 @@
-# Course Project-03: ICC Cricket World Cup 2023 ML Challange
+# Course Project-03: ICC Cricket World Cup 2023 ML challenge
 
 In this project we are performing different kinds of tasks using Machine Learning and Deep Learning algorithms which are briefly explained below, this model is then deployed using FastAPI and the Uvicorn ASGI web server.
 
