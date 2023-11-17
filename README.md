@@ -47,7 +47,7 @@ pip install fastapi uvicorn numpy pickle pandas scikit-learn
 python -m uvicorn main:app --reload
 ```
 
-# 3. The API will be accessible at http://127.0.0.1:8000
+## 3. The API will be accessible at http://127.0.0.1:8000
 - You can see outcomes by sending POST requests to http://127.0.0.1:8000/docs with JSON data in the format specified by the 'Task2_API.py' and 'Task3_API.py '.
 
 ## API Endpoints
